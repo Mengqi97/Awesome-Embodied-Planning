@@ -4,19 +4,21 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 
 ## Contents
 
-- [Methods](#methods)
 - [Benchmarks](#benchmarks)
-
-## Methods
-
-- [Paper Title - First Presentation](https://example.com) - Description here.
+- [Methods](#methods)
 
 ## Benchmarks
 
-- [Benchmark Title](https://example.com) - Description here.
+| Year | Venue | Paper | Method |
+|------|-------|-------|--------|
+|      |       |       |        |
+
+## Methods
+
+| Year | Venue | Paper | Method |
+|------|-------|-------|--------|
+|      |       |       |        |
 
 ## Contributing
 
 Feel free to add papers by pulling requests.
-
-## License MIT
