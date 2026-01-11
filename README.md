@@ -9,15 +9,11 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 
 ## Benchmarks
 
-| Year | Venue | Paper | Method |
-|------|-------|-------|--------|
-|      |       |       |        |
+- []
 
 ## Methods
 
-| Year | Venue | Paper | Method |
-|------|-------|-------|--------|
-|      |       |       |        |
+- []
 
 ## Contributing
 
