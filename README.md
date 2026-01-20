@@ -14,13 +14,13 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 
 - [Benchmarks](#benchmarks)
 - [Methods](#methods)
-- [Paper Notes](#)
+- [Paper Notes](#paper notes)
 
 ## Benchmarks
 
 - [2025.08|⭐ Arxiv] AgentWorld: an interactive simulation platform for scene construction and mobile robotic manipulation [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/yizhengzhang1/agent_world) [![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://yizhengzhang1.github.io/agent_world/)
 - [2025.06|🌿 CCF-A ACL] AmbiK: dataset of ambiguous tasks in kitchen environment  [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/cog-model/AmbiK-dataset)
-- [2025.07|⭐ Arxiv] CookBench: a long-horizon embodied planning benchmark for complex cooking scenarios ![github](https://img.shields.io/badge/coming soon--blue?style=social&logo=github)
+- [2025.07|⭐ Arxiv] CookBench: a long-horizon embodied planning benchmark for complex cooking scenarios ![github](https://img.shields.io/badge/upcoming--blue?style=social&logo=github)
 - [2025.02|⭐ Arxiv] EmbodiedBench: comprehensive benchmarking multi-modal large language models for vision-driven embodied agents [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/EmbodiedBench/EmbodiedBench)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://embodiedbench.github.io/)
 - [2025.07|⭐ Arxiv] EmbRACE-3K: embodied reasoning and action in complex environments 
 - [2025.02|⭐ Arxiv] ET-plan-bench: embodied task-level planning benchmark towards spatial-temporal cognition with foundation models 
@@ -43,6 +43,9 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 - [2023.07|⭐ Arxiv] Embodied task planning with large language models [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/Gary3410/TaPA)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://gary3410.github.io/TaPA/)
 - [2017.07|🍃 CCF-B EMNLP] Mapping instructions and visual observations to actions with reinforcement learning [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/lil-lab/blocks)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://katefvision.github.io/LanguageGrounding/Slides/57.pdf)
 - [2017.08|🌿 CCF-A ICCV] Visual semantic planning using deep successor representations 
+
+## Paper Notes
+
 
 ## Contributing
 
