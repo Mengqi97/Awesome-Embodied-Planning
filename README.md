@@ -14,12 +14,13 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 
 - [Benchmarks](#benchmarks)
 - [Methods](#methods)
+- [Paper Notes](#)
 
 ## Benchmarks
 
 - [2025.08|⭐ Arxiv] AgentWorld: an interactive simulation platform for scene construction and mobile robotic manipulation [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/yizhengzhang1/agent_world) [![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://yizhengzhang1.github.io/agent_world/)
 - [2025.06|🌿 CCF-A ACL] AmbiK: dataset of ambiguous tasks in kitchen environment  [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/cog-model/AmbiK-dataset)
-- [2025.07|⭐ Arxiv] CookBench: a long-horizon embodied planning benchmark for complex cooking scenarios 
+- [2025.07|⭐ Arxiv] CookBench: a long-horizon embodied planning benchmark for complex cooking scenarios ![github](https://img.shields.io/badge/coming soon--blue?style=social&logo=github)
 - [2025.02|⭐ Arxiv] EmbodiedBench: comprehensive benchmarking multi-modal large language models for vision-driven embodied agents [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/EmbodiedBench/EmbodiedBench)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://embodiedbench.github.io/)
 - [2025.07|⭐ Arxiv] EmbRACE-3K: embodied reasoning and action in complex environments 
 - [2025.02|⭐ Arxiv] ET-plan-bench: embodied task-level planning benchmark towards spatial-temporal cognition with foundation models 
