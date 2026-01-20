@@ -1,6 +1,7 @@
 # Awesome Embodied Planning
 
-A curated collection of embodied planning research papers, benchmarks, and methods.
+A curated collection of embodied planning methods, benchmarks, and detailed paper notes—built to support and grow the embodied planning community.
+面向具身规划社区：整理方法、基准与详细论文笔记，推动社区发展。
 
 **Legend**
 
