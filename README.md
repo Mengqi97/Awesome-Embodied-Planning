@@ -14,7 +14,7 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 
 - [Benchmarks](#benchmarks)
 - [Methods](#methods)
-- [Paper Notes](#paper notes)
+- [PaperNotes](#PaperNotes)
 
 ## Benchmarks
 
@@ -44,7 +44,7 @@ A curated collection of embodied planning research papers, benchmarks, and metho
 - [2017.07|🍃 CCF-B EMNLP] Mapping instructions and visual observations to actions with reinforcement learning [![github](https://img.shields.io/badge/github--blue?style=social&logo=github)](https://github.com/lil-lab/blocks)[![project](https://img.shields.io/badge/project--blue?style=social&logo=googlechrome)](https://katefvision.github.io/LanguageGrounding/Slides/57.pdf)
 - [2017.08|🌿 CCF-A ICCV] Visual semantic planning using deep successor representations 
 
-## Paper Notes
+## PaperNotes
 
 
 ## Contributing
