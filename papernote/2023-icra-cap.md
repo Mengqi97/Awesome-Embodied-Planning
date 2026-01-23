@@ -6,9 +6,7 @@
 
 - 任务：将自然语言指令转换为可执行的机器人控制代码
 
-- 
-
-  方法“代码即策略”（Code as Policies，CaP）核心是利用大型语言模型（LLM）将自然语言指令转换为可执行的机器人代码。方法可以分为高层级和低层级两个方面。
+- 方法“代码即策略”（Code as Policies，CaP）核心是利用大型语言模型（LLM）将自然语言指令转换为可执行的机器人代码。方法可以分为高层级和低层级两个方面。
 
   - 高层级：
     - 用户交互： 用户通过自然语言指令与机器人进行交互，例如“将积木堆叠在空碗里”。
@@ -20,9 +18,8 @@
     - 控制 API：  提供对机器人控制能力的访问接口，例如移动、抓取、放置等。LLM 可以调用这些 API 控制机器人的具体动作，例如将某个物体移动到指定位置。
       代码即策略方法的关键在于将高级指令解析与底层 API 调用结合起来，实现端到端的机器人控制
 
-![](https://github.com/Mengqi97/Awesome-Embodied-Planning/blob/main/papernote_fig/cap/sum1.png)   
-
-<!--给定示例（通过少量镜头提示），机器人可以使用编写代码的大型语言模型（LLM）将自然语言命令转换为机器人策略代码，该代码处理感知输出，参数化控制原语，递归生成未定义函数的代码，并推广到新任务。-->
+        ![](https://github.com/Mengqi97/Awesome-Embodied-Planning/blob/main/papernote_fig/cap/sum1.png)   
+        <!--给定示例（通过少量镜头提示），机器人可以使用编写代码的大型语言模型（LLM）将自然语言命令转换为机器人策略代码，该代码处理感知输出，参数化控制原语，递归生成未定义函数的代码，并推广到新任务。-->
 
 ## **2、方法细节**
 
@@ -56,6 +53,6 @@
   - 允许使用尚未定义的函数，可以使用分层代码生成创建。
 - HumanEval : 这是一个标准的代码生成基准测试，包含通用的代码生成问题。文章使用它来评估分层代码生成方法在通用代码生成问题上的效果。
 
-![](https://github.com/Mengqi97/Awesome-Embodied-Planning/blob/main/papernote_fig/cap/sum2.png)
+    ![](https://github.com/Mengqi97/Awesome-Embodied-Planning/blob/main/papernote_fig/cap/sum2.png)
 
 除了这两个数据集，文章还进行了其他实验，例如使用 CaP 方法在模拟环境和真实机器人上完成各种任务，并在附录中提供了更多示例和结果。
