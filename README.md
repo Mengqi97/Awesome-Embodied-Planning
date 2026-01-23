@@ -46,7 +46,7 @@ A curated collection of embodied planning methods, benchmarks, and detailed pape
 - [2017.08|🌿 CCF-A ICCV] Visual semantic planning using deep successor representations 
 
 ## PaperNotes
-
+- [2023.05|🍃 CCF-B ICRA] [Code as Policies-Language Model Programs for Embodied Control](https://github.com/Mengqi97/Awesome-Embodied-Planning/blob/main/papernote/2023-icra-cap.md)
 
 ## Contributing
 
